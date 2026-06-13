@@ -1,6 +1,6 @@
 # window
 
-A scriptable X11 display server. Spawn a window, get a pipe, send drawing commands from any language.
+A scriptable X11 display server. Spawn a window, get a pipe, send drawing commands from any language. All examples below are bash.
 
 ```bash
 ./window &
